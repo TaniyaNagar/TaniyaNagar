@@ -122,10 +122,6 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 <br><br>
 
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=TaniyaNagar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
 
 
 ---
