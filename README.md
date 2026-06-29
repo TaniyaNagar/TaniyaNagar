@@ -110,22 +110,22 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaniyaNagar&theme=catppuccin_mocha" />
+<!-- Overall GitHub Summary -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaniyaNagar&theme=tokyonight"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaniyaNagar&theme=catppuccin_mocha" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaniyaNagar&theme=catppuccin_mocha" />
+<!-- Productive Stats -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaniyaNagar&theme=tokyonight"/>
 
-<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaniyaNagar&theme=tokyonight&utcOffset=5.5"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaniyaNagar&theme=catppuccin_mocha" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaniyaNagar&theme=catppuccin_mocha&utcOffset=5.5" />
+<br><br>
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=TaniyaNagar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
-
 
 
 ---
