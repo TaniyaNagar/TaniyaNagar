@@ -1,41 +1,141 @@
-<h1 data-importer="text" align="center">Hi, I'm Taniya Nagar 👋</h1>
+<div align="center">
 
-###
+<!-- ═══════════════════════════════════════════════════════════
+     HERO BANNER — animated, dark bg with lavender/pink palette
+════════════════════════════════════════════════════════════ -->
 
-<p data-importer="text" align="center">AI Engineer passionate about building intelligent applications with Agentic AI, LLMs, LangChain, LangGraph, and NLP.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0a2e,70:2d1b4e,100:0d0d1a&height=300&section=header&text=Taniya%20Nagar&fontSize=65&fontColor=E8D5FF&fontAlignY=40&animation=twinkling&stroke=C084FC&strokeWidth=2&desc=AI%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=19&descAlignY=62&descFontColor=F0ABFC" />
 
-###
+<!-- Typing animation — lavender/pink accent, rotating identity -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1400&color=C084FC&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications+%F0%9F%A4%96;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems+%E2%9C%A8;Always+Learning.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h2 data-importer="text" align="left">About me</h2>
+<br/>
 
-###
+<!-- Social badges — clickable, working URLs -->
+<a href="https://www.linkedin.com/in/taniyanagar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%23C084FC.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:nagartaniya1308@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23F472B6.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=TaniyaNagar&style=for-the-badge&color=C084FC&label=Profile+Views" />
 
-<p data-importer="text" align="left">💻 Python  • LangChain  • LangGraph   • NLP    • LLMs   • PostgreSQL  • Docker  • Git<br><br>🎯 Currently building Tracebase and learning AI Engineering, MLOps, and DSA.<br><br>🚀 Interested in creating scalable, production-ready AI applications.</p>
+</div>
 
-###
+<br/>
 
-<h2 data-importer="text" align="left">Languages and Tools</h2>
+---
 
-###
+## About Me
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+I'm an **AI Engineer** focused on building intelligent, production-ready applications using **Python, Agentic AI, LangChain, LangGraph, LLMs, and NLP**. I enjoy solving real-world problems through AI, building scalable backend systems, and continuously learning modern AI technologies.
+
+- 🤖 Building AI-powered applications and agentic systems
+- 🧠 Exploring LLMs, LangChain, LangGraph & multi-agent architectures
+- 🔍 Working with RAG, NLP, and AI observability tooling
+- ⚡ Interested in scalable backend systems for AI workloads
+- 🚀 Always learning, always building real-world projects
+
+---
+
+## ⚒️ Tech Stack
+
+<div align="center">
+
+**Core Tools**
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,fastapi,docker,github,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+**AI & ML Layer**
+
+![LangChain](https://img.shields.io/badge/LangChain-%23C084FC.svg?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23A855F7.svg?style=flat-square&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-%23F0ABFC.svg?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-%23F472B6.svg?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%23E879F9.svg?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%23D946EF.svg?style=flat-square&logoColor=white)
+
+
+</div>
+
+---
+
+## 🔭 Currently Building
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔭 **Tracebase** | AI agent observability & monitoring platform | FastAPI · Celery · TimescaleDB · React 19 |
+| 🎙️ **Verbalystic** | Voice-to-voice AI pipeline (Whisper → LLM → TTS) | FastAPI  · Edge TTS |
+
+
+---
+
+## 📚 Currently Learning
+
+```text
+✦  Agentic AI & Multi-Agent Architectures
+✦  LangChain · LangGraph · Tool Use Patterns
+✦  Retrieval-Augmented Generation (RAG)
+✦  AI Observability & MLOps
+✦  Scalable System Design for AI workloads
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TaniyaNagar&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=C084FC&icon_color=F472B6&text_color=E8D5FF&ring_color=C084FC&count_private=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniyaNagar&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=C084FC&text_color=E8D5FF&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=TaniyaNagar&hide_border=true&background=0d0d1a&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=E8D5FF&dates=A78BFA&currStreakNum=E8D5FF&sideNums=E8D5FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaniyaNagar&hide_border=true&bg_color=0d0d1a&color=C084FC&line=A855F7&point=F472B6&area=true&area_color=C084FC" />
+
+</div>
+
+---
+
+## 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaniyaNagar&theme=catppuccin_mocha" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaniyaNagar&theme=catppuccin_mocha" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaniyaNagar&theme=catppuccin_mocha" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaniyaNagar&theme=catppuccin_mocha" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaniyaNagar&theme=catppuccin_mocha&utcOffset=5.5" />
+
 </div>
 
 
+
+---
+
+<div align="center">
+
+*"Shipped systems think. Working prototypes teach. Real-world constraints design."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0a2e,70:2d1b4e,100:0d0d1a&height=120&section=footer&stroke=C084FC&strokeWidth=1.5"/>
+
+</div>
