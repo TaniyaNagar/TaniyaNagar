@@ -90,21 +90,15 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TaniyaNagar&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=C084FC&icon_color=F472B6&text_color=E8D5FF&count_private=true" />
-
-&nbsp;
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TaniyaNagar&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=C084FC&text_color=E8D5FF" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=TaniyaNagar&hide_border=true&background=0d0d1a&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=E8D5FF&dates=A78BFA&currStreakNum=E8D5FF&sideNums=E8D5FF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaniyaNagar&bg_color=0d0d1a&color=C084FC&line=A855F7&point=F472B6&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaniyaNagar&hide_border=true&bg_color=0d0d1a&color=C084FC&line=A855F7&point=F472B6&area=true&area_color=C084FC" />
 
 </div>
+
 
 ---
 
