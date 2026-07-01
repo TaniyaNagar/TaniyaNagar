@@ -1,29 +1,35 @@
 <div align="center">
 
-<!-- ==================== HERO BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:FFFFFF,20:F8FAFC,45:F3E8FF,70:E9D5FF,100:FFFFFF&text=Taniya%20Nagar&fontColor=6D28D9&fontSize=58&fontAlignY=42&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=20&animation=fadeIn"/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/banner.png">
-  <img
-    src="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/banner.png"
-    alt="Taniya Nagar | AI Engineer"
-    width="100%">
-</picture>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=1000&center=true&vCenter=true&width=900&height=55&color=8B5CF6&lines=Building+Production-Ready+AI+Applications;Agentic+AI+%7C+LangChain+%7C+LangGraph;LLMs+%7C+RAG+%7C+FastAPI;Python+Developer+%7C+AI+Engineer;Always+Learning.+Always+Building." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Production-Ready+AI+Applications;Agentic+AI+%7C+LangChain+%7C+LangGraph;LLMs+%7C+RAG+%7C+NLP;Always+Learning+%F0%9F%9A%80" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</p>
+
+<br>
 
 
-<br><br>
+</div>
 
 
 ---
 
 
 <!-- Social badges — clickable, working URLs -->
+<div align="center">
 <a href="https://www.linkedin.com/in/taniyanagar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23C084FC.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
