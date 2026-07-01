@@ -58,7 +58,7 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 ---
 
-## ⚒️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -142,7 +142,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
 <div align="center">
 
@@ -165,7 +165,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 
 
-## 🔭 Currently Building
+## Currently Building
 
 | Project | Description | Stack |
 |---|---|---|
@@ -175,7 +175,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 ✦  Agentic AI & Multi-Agent Architectures
@@ -187,7 +187,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -203,7 +203,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 ---
 
-## 📈 Profile Summary
+## Profile Summary
 
 <div align="center">
 
