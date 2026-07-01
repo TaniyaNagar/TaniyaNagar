@@ -76,6 +76,89 @@ I'm an **AI Engineer** focused on building intelligent, production-ready applica
 
 ---
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Tracebase
+
+AI Observability Platform for monitoring, tracing, and governing AI agents in production.
+
+**Highlights**
+- ⚡ FastAPI + PostgreSQL backend
+- 🤖 LangChain & LangGraph integration
+- 📊 Real-time observability dashboards
+- 🛡️ AI Guardrails & HITL workflows
+- 📈 Cost tracking & performance analytics
+
+**Tech Stack**
+
+`FastAPI` `PostgreSQL` `Redis`
+`Celery` `WebSockets`
+`React`
+`OpenAI`
+`LangChain`
+`LangGraph`
+
+</td>
+
+<td width="50%">
+
+### 🎙️ Verbalystic
+
+An AI-powered communication coach that analyzes conversations and provides real-time personalized feedback.
+
+**Highlights**
+
+- 🧠 Prompt Engineering
+- 💬 AI-powered communication analysis
+- ⚡ Low-latency responses
+- 📈 Professional speaking improvement
+- 🤖 OpenAI API integration
+
+**Tech Stack**
+
+`Python`
+`OpenAI`
+`Prompt Engineering`
+`FastAPI`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|---------------|----------|
+| ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional | Oracle |
+| 🎯 Data Analyst Bootcamp | Krish Naik |
+| 🤖 GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
+| 🐍 Python Essentials 1 | Cisco Networking Academy |
+| 🐍 Python Essentials 2 | Cisco Networking Academy |
+| 🧠 Introduction to Modern AI | Cisco Networking Academy |
+| 📊 Apply AI – Analyze Customer Review | Cisco Networking Academy |
+| 📈 Introduction to Data Science | Cisco Networking Academy |
+
+
+</div>
+
+---
+
+
+
+
 ## 🔭 Currently Building
 
 | Project | Description | Stack |
