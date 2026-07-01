@@ -1,27 +1,26 @@
 <div align="center">
 
-<!-- Hero Banner -->
+<!-- ==================== HERO BANNER ==================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/hero-banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/hero-banner.png">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/banner.png">
   <img
     src="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/banner.png"
     alt="Taniya Nagar | AI Engineer"
-    width="100%"
-  />
+    width="100%">
 </picture>
 
 <br><br>
 
-<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Production-Ready+AI+Applications;Agentic+AI+%7C+LangChain+%7C+LangGraph;LLMs+%7C+RAG+%7C+NLP;Always+Learning+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Building+AI-powered+Applications+🤖;Agentic+AI+•+LLMs+•+LangChain+•+LangGraph;Retrieval-Augmented+Generation+(RAG);Always+Learning.+Always+Building." />
 
 <br><br>
- 
 
-</div>
+
+---
 
 
 <!-- Social badges — clickable, working URLs -->
