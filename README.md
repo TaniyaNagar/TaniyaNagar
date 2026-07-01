@@ -1,15 +1,28 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     HERO BANNER — animated, dark bg with lavender/pink palette
-════════════════════════════════════════════════════════════ -->
+<!-- Hero Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0a2e,70:2d1b4e,100:0d0d1a&height=300&section=header&text=Taniya%20Nagar&fontSize=65&fontColor=E8D5FF&fontAlignY=40&animation=twinkling&stroke=C084FC&strokeWidth=2&desc=AI%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=19&descAlignY=62&descFontColor=F0ABFC" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/hero-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/hero-banner.png">
+  <img
+    src="https://raw.githubusercontent.com/TaniyaNagar/TaniyaNagar/main/assets/banner.png"
+    alt="Taniya Nagar | AI Engineer"
+    width="100%"
+  />
+</picture>
 
-<!-- Typing animation — lavender/pink accent, rotating identity -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1400&color=C084FC&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications+%F0%9F%A4%96;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems+%E2%9C%A8;Always+Learning.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+<br><br>
 
-<br/>
+<!-- Typing Animation -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Building+AI-powered+Applications+🤖;Agentic+AI+•+LLMs+•+LangChain+•+LangGraph;Retrieval-Augmented+Generation+(RAG);Always+Learning.+Always+Building." />
+
+<br><br>
+ 
+
+</div>
+
 
 <!-- Social badges — clickable, working URLs -->
 <a href="https://www.linkedin.com/in/taniyanagar" target="_blank">
