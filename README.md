@@ -148,14 +148,14 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 | Certification | Provider |
 |---------------|----------|
-| ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional | Oracle |
-| 🎯 Data Analyst Bootcamp | Krish Naik |
-| 🤖 GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
-| 🐍 Python Essentials 1 | Cisco Networking Academy |
-| 🐍 Python Essentials 2 | Cisco Networking Academy |
-| 🧠 Introduction to Modern AI | Cisco Networking Academy |
-| 📊 Apply AI – Analyze Customer Review | Cisco Networking Academy |
-| 📈 Introduction to Data Science | Cisco Networking Academy |
+|  Oracle Cloud Infrastructure 2025 Certified Data Science Professional | Oracle |
+|  Data Analyst Bootcamp | Krish Naik |
+|  GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
+|  Python Essentials 1 | Cisco Networking Academy |
+|  Python Essentials 2 | Cisco Networking Academy |
+|  Introduction to Modern AI | Cisco Networking Academy |
+|  Apply AI – Analyze Customer Review | Cisco Networking Academy |
+|  Introduction to Data Science | Cisco Networking Academy |
 
 
 </div>
@@ -207,10 +207,7 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 <div align="center">
 
-<!-- Overall GitHub Summary -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaniyaNagar&theme=tokyonight"/>
 
-<br><br>
 
 <!-- Productive Stats -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaniyaNagar&theme=tokyonight"/>
