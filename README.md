@@ -190,9 +190,9 @@ An AI-powered communication coach that analyzes conversations and provides real-
 
 <div align="center">
 
-<img width="56%" src="https://github-readme-stats-pied-nu-12.vercel.app/api?username=TaniyaNagar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=E8D5FF&icon_color=F472B6&ring_color=C084FC&cache_seconds=1800"/>
+<img width="56%" src="https://github-readme-stats-pied-nu-12.vercel.app/api?username=TaniyaNagar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=E8D5FF&icon_color=F472B6&ring_color=C084FC&cache_seconds=60&v=20260714"/>
 
-<img width="37%" src="https://github-readme-stats-pied-nu-12.vercel.app/api/top-langs/?username=TaniyaNagar&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=E8D5FF&cache_seconds=1800"/>
+<img width="37%" src="https://github-readme-stats-pied-nu-12.vercel.app/api/top-langs/?username=TaniyaNagar&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=E8D5FF&cache_seconds=60&v=20260714"/>
 
 <br><br>
 
